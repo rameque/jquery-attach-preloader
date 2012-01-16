@@ -7,7 +7,7 @@ my$(document).ready(function(){
 					'images/3469823338_a32f7127ec_z.jpg?zz=1',
 					'images/6690312801_26b14ce653_z.jpg',
 					'http://suckitupbuttercup-themovie.attachdesign.com/css/1280x1024.css',
-					'http://localhost:8888/preloader/text.html',
+					'text.html',
 					'http://webdesign.about.com/od/multimedia/a/mime-types-by-content-type.htm',
 					'http://farm8.staticflickr.com/7008/6677850879_b0fa279a5c_o.jpg',
 					'js/quality.js'
